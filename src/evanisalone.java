@@ -6,7 +6,7 @@ public class evanisalone {
 	public static void main(String[] args) {
 		Evan Evan= new Evan();
 		sc = new Scanner(System.in);
-		System.out.println("Welcome to Evan Is Alone. this game will explain itself as you go but first a tip. Pick up any object you run into, you never know if you might need it. Also, try to only visit the rooms once, and only pick things up once. GOOD LUCK!  \n\n");
+		System.out.println("Welcome to Evan Is Alone. This game will explain itself as you go but first a tip. Pick up any object you run into, you never know if you might need it. Also, try to only visit the rooms once, and only pick things up once. GOOD LUCK!  \n\n");
 		String answer="";
 		System.out.println("Would you like to play? \n");
 		answer = sc.next();
